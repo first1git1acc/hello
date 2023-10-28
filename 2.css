@@ -1,0 +1,45 @@
+#a-container>a{
+    margin: 10px;
+    padding: 10px;
+    color:darkgray;
+}
+#a-container{
+    position: absolute;
+    right:0;
+    top:40px;
+    
+}
+.img_ggl{
+    width:270px;
+    height:150px;
+    margin-left: 50px;
+}
+#container{
+    position:absolute;
+    top:150px;
+    left:35%;
+}
+#btn{
+    display: block;
+    margin-left:25px;
+    margin-top: 15px;
+}
+input[type="text"]{
+    width:370px;
+    border-radius: 15px;
+    height:25px;
+}
+input[type="submit"]{
+    height:35px;
+    margin:5px;
+    color:darkgray;
+    font-size: 15px;
+    padding:7px;
+    border:0;
+    width:150px;
+}
+input[type="submit"]:hover{
+    border:1px solid darkgray;
+}
+
+
